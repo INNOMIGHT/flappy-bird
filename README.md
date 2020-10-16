@@ -1,4 +1,5 @@
 # Flappy-Bird
+Unzip the FlappyBirdInnomight.zip Archive.
 Double click the auto-executable FlappyBirdInnomight to run the game.
 Flappy bird game made with pygame library of python.
 This game features the bird which players control to fly without hitting the obstacles (pipes).
