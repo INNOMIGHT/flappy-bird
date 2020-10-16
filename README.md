@@ -6,4 +6,6 @@ This game features the bird which players control to fly without hitting the obs
 The sprites, models, background and sound are also added.
 This also features a score and high score record. Go ahead and flap the wings!
 
-<div align=”center”>![flappy-bird](https://user-images.githubusercontent.com/53264777/96254177-7d9e3080-0fd2-11eb-8aea-0f66d8951dce.png)</div>
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/53264777/96254177-7d9e3080-0fd2-11eb-8aea-0f66d8951dce.png">
+</p>
